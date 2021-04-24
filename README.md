@@ -1,4 +1,4 @@
-# Repositorio.
+# Repositorio
 
 Integrantes
 
